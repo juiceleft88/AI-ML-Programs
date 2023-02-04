@@ -1,3 +1,7 @@
+#Hugo Izquierdo
+#11/21/2022
+#Artificial Intelligence
+
 # Takes in 2D List representing the board and outputs it to the console as a sudoku board
 def print_sudoku(board):
     if len(board) != 9:
