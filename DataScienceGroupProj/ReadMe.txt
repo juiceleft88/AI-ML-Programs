@@ -1,1 +1,3 @@
+This project is about identifying the different species of butterflies by training the machine. Images of butterflies will be given to help train the machine to spot their characteristics, allowing it to understand which characteristics belong to which butterfly, effectively classifying them in a quick and orderly manner. By classifying the butterfly we are able to realize which butterfly will be Yum (Non-poisonous) or Yuck (Poisonous) based on the butterfly characteristics. 
 
+Various classification techniques are used throughout our program, and the final report with our findings is provided here.
